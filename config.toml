@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Kajal Puri"
 theme = "hugo-ink"
@@ -8,7 +8,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Your Google analytics code.
-googleAnalytics = "UA-60501485-2"
+#googleAnalytics = "UA-60501485-2"
 
 [params]
 	# Blog subtitle which appears below blog title. Supports markdown.
