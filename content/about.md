@@ -16,7 +16,13 @@ I can offer scintillating conversations about Python (You can spot me in various
 [Research Paper](https://www.dropbox.com/s/l5fbzk4ro36dpkh/PURI.pdf?dl=0) Data Augmentation using Convolutional Neural Networks in Neuroimaging
 
 
-## Contact
+## Social Media
 
-Email me: `puri@uni-bonn.de` or drop me a DM at [@Agirlhasnofame](https://twitter.com/Agirlhasnofame)
+Email : `puri@uni-bonn.de` 
+
+Twitter : [@Agirlhasnofame](https://twitter.com/Agirlhasnofame)
+
+Spotify : [@kajalpuri](https://open.spotify.com/user/kajalpuri)
+
+Instagram : [Agirlhasnofame](https://www.instagram.com/agirlhasnofame/)
 
