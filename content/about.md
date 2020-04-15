@@ -18,7 +18,7 @@ I can offer scintillating conversations about Python (You can spot me in various
 
 ## Social Media
 
-Email : `puri@uni-bonn.de` 
+Email : `puri AT uni-bonn.de` 
 
 Twitter : [@Agirlhasnofame](https://twitter.com/Agirlhasnofame)
 
