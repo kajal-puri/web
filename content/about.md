@@ -2,32 +2,21 @@
 title: "About Me"
 type: "page"
 ---
+Hi, I am Kajal Puri. I am a student pursuing Masters in Computer Science. My research interests are in the applications of Computer Vision, 3D Graphics and Machine Learning. 
 
-Hi! I am Karan and I usually go by the handle `@mrkaran` on the interwebz. I work at [Zerodha](https://zerodha.com) where I focus mainly on Devops practices, Containers and Kubernetes. I've started my journey in DevOps fairly recently and prior to this I was a fullstack developer building web applications using Python, JS and Golang.
+I've spent the hot and humid summer of 2019 working at [INRIA](https://team.inria.fr/pervasive/) with [Dr. James Crowley](http://www-prima.inrialpes.fr/Prima/Homepages/jlc/jlc.html), on the topic of Data Augmentation using GANs on Medical Imaging. Prior to that, I worked as a Data Scientist at [Fractal Analytics](https://fractal.ai/), second largest analytics tech company in India. As a member of R&D team, I gained my first experience handling large scale Computer Vision projects. I developed and worked on a bunch of problems ranging from Pose Estimation to predicting sales for big retail firms. 
 
-# Projects
+I can offer scintillating conversations about Python (You can spot me in various PyCons across Europe) or Poetry (I try to read and write as much as possible) or Music (all genres except EDM and Metal) or Memes (ANY) or Movies (Please suggest me good movies that I haven't watched) or TV-Series (fantasy, sci-fi, thriller, sitcom, politics - I've seen it all) or just small talk, if and only if I like you. 
 
-[kubekutr](https://github.com/mr-karan/kubekutr/) Cookie cutter templating tool for scaffolding K8s manifests
+## Projects
 
-[store-exporter](https://github.com/mr-karan/store-exporter/) Utility to extract metrics from arbitary data stores in Prometheus format
 
-[cAlert](https://github.com/mr-karan/calert) Prometheus' Alertmanager - Google Chat Integration
+[Summary](https://www.dropbox.com/s/1z36pl7gl01hs8k/ExtendedAbstract.pdf?dl=0) Momentum contrast for Unsupervised Visual representation Learning
 
-[swiggy-analytics](https://github.com/mr-karan/swiggy-analytics) Analyse your Swiggy orders
+[Research Paper](https://www.dropbox.com/s/l5fbzk4ro36dpkh/PURI.pdf?dl=0) Data Augmentation using Convolutional Neural Networks in Neuroimaging
 
-[flexit](https://github.com/mr-karan/flexit) Responsive CSS Grid based on Flexbox
-
-[vscode-kite](https://github.com/mr-karan/vscode-kite) Visual Studio Code extension for KiteConnect API
-
-[webkin](https://github.com/mr-karan/webkin) CLI tool to send webpages to kindle
-
-[fate](https://github.com/mr-karan/fate) Browse FontAawesome icons from your shell
-
-## Open Source
-
-I've worked with [coala](https://coala.org) in the past as part of Google Summer of Code [2016](https://summerofcode.withgoogle.com/archive/2016/projects/5563734458105856/) project.
 
 ## Contact
 
-Email me: `hello@mrkaran.dev` or reach out to me at [@mrkaran\_](https://twitter.com/mrkaran_)
+Email me: `puri@uni-bonn.de` or drop me a DM at [@Agirlhasnofame](https://twitter.com/Agirlhasnofame)
 
